@@ -163,7 +163,7 @@ available at http://www.apache.org/licenses/LICENSE-2.0.
 
 Logos provided by the very excellent [@impurepics](https://twitter.com/impurepics).
 
-# Disclamer
+# Disclaimer
 
 Please be advised that I have no idea what I am doing.
 Nevertheless, this project is already being used for real
